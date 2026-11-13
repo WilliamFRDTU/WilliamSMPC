@@ -1,7 +1,10 @@
-layout: page
-title: "Related Research"
-permalink: /relatedresearch
+---
+layout: default
+---
 
+
+
+# Related Research
 
 This is where all the related research to this project will be written
 
