@@ -6,7 +6,7 @@ layout: default
 
 
 ## To view the Related Research page, click this link
-[Related Research](./related_research.md).
+[Related Research](./related_research.md)
 
 
 
@@ -19,8 +19,8 @@ This project is based on research relating to timbre and embodied music percepti
 
 
 
-## Test reults
-
+## Conducted experiment and test results
+[Conducted experiment](./experiment.md)
 
 
 ### Small image
