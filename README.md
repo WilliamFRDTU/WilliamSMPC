@@ -1,2 +1,2 @@
 
-# SMPC Mini-Project by wronbe26
+# Drum sound gestures and embodied music cognition
