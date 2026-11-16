@@ -15,11 +15,8 @@ layout: default
 This project is based on research relating to timbre and embodied music perception.
 
 
-## Survey
 
-
-
-## Conducted experiment and test results
+## Conducted listening experiment and test results
 [Conducted experiment](./experiment.md)
 
 
