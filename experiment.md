@@ -6,7 +6,7 @@ layout: default
 
 This page presents the thought behind the conducted listening test in which test participants rated pairs of sounds based on similarity.
 
-Some of the experiment is based on the paper [Spectral and Temporal Cues](https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=45KBDK_AUB:AUB&search_scope=MyInst_and_CI&tab=Everything&lang=da&docid=cdi_scitation_primary_10_1121_1_4955181) by Hjortkjær and McAdams.
+Some of the experiment is based on the paper [Spectral and Temporal Cues for perception of material and action categories in impacted sound sources](https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=45KBDK_AUB:AUB&search_scope=MyInst_and_CI&tab=Everything&lang=da&docid=cdi_scitation_primary_10_1121_1_4955181) by Hjortkjær and McAdams.
 
 
 ## Subjects
@@ -36,4 +36,4 @@ This also means that eight of the questions were presenting a repeated sound (tw
 
 
 ## References
-<a href="https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=45KBDK_AUB:AUB&search_scope=MyInst_and_CI&tab=Everything&lang=da&docid=cdi_scitation_primary_10_1121_1_4955181">Spectral and Temporal Cues</a>
+<a href="https://kbdk-aub.primo.exlibrisgroup.com/discovery/fulldisplay?context=PC&vid=45KBDK_AUB:AUB&search_scope=MyInst_and_CI&tab=Everything&lang=da&docid=cdi_scitation_primary_10_1121_1_4955181">Spectral and Temporal Cues for perception of material and action categories in impacted sound sources</a>
