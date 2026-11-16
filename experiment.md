@@ -23,8 +23,14 @@ In total eight sounds with these variations were chosen, meaning two normal stro
 
 
 ## Procedure
-The sounds were presented to the listener in random pairs, meaning for all combinations of the sounds to occur, 36 questions in the survey was needed. 
-Furthermore four extra questions spread out in the survey presenting two identical sounds were included as a test, to see if the subjects were able to tell a distinct similarity.
+The subjects were instructed to sit in a relatively quiet space and to preferably use closed headphones to reduce background noise. 
+
+The stimuli were presented to the subjects in random pairs in a survey, with their corresponding similarity answers given by a slider scale with "Very Similar" and "Very Dissimilar" at the extremes.
+
+A pre-test with 5 questions were included to give the subjects time to set the volume to a comfortable level. Furthermore the subjects were encouraged to use the full range of the slider scale, to distinct between similar and dissimilar drum strokes.
+
+For the main experiment, all combinations of the eight drum strokes were presented to the subjects, meaning 36 questions in the survey was needed. 
+This also means that eight of the questions were presenting a repeated sound (two identical stimuli). These were also spread out randomly and were included as a test, to see if the subjects were able to tell a distinct similarity.
 
 
 
