@@ -23,8 +23,8 @@ In total eight sounds with these variations were chosen, meaning two normal stro
 
 
 ## Procedure
-The sounds were presented to the listener in pairs, meaning for all combinations of the sounds to occur, 36 questions in the survey was needed. 
-Furthermore four extra questions presenting some of the sounds together with itself were included as a test, to see if the subjects were able to tell a distinct similarity.
+The sounds were presented to the listener in random pairs, meaning for all combinations of the sounds to occur, 36 questions in the survey was needed. 
+Furthermore four extra questions spread out in the survey presenting two identical sounds were included as a test, to see if the subjects were able to tell a distinct similarity.
 
 
 
