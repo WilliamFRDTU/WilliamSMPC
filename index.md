@@ -5,12 +5,12 @@ layout: default
 # Index Page
 
 ## General motivation
-Human timbre perception is remarkably fast as we are able to identify music genres, voices or instruments in sound snippets down to a fraction of a second.  (Mace et al 2012) (Suied et al 2014)
+Human timbre perception is remarkably fast as we are able to identify music genres, voices or instruments in sound snippets down to a fraction of a second (Suied et al 2014) (Mace et al 2012).
 
 
 ## Hypothesis
 
-Test participants are able to tell drum sounds apart based on the movement or instruction of the stroke
+Listeners will rate pairs of strokes played with the same instruction as more similar than pairs played with different instructions or coming different players. There will be a clear similarity dimension based on these characteristics.
 
 
 ## To view the Related Research page, click this link
@@ -30,5 +30,6 @@ This project is based on research relating to timbre and embodied music percepti
 
 
 ## References
+Suied et al 2014 <a href="https://pubs.aip.org/asa/jasa/article-abstract/135/3/1380/693976/Auditory-gist-Recognition-of-very-short-sounds?redirectedFrom=fulltext">Auditory gist: Recognition of very short sounds from timbre cues</a>
 
-
+Mace et al 2012 <a href="https://journals.sagepub.com/doi/10.1177/0305735610391347">Genre identification of very brief musical excerpts</a>
